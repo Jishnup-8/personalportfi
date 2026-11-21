@@ -1,11 +1,11 @@
 :root {
-  --ink: #17202a;
-  --muted: #64748b;
-  --line: #d9e2ec;
-  --brand: #1d6fd8;
-  --brand-dark: #124a91;
-  --surface: #f4f8fb;
-  --accent: #f4b740;
+  --ink: #17202a
+  --muted: #64748b
+  --line: #d9e2ec
+  --brand: #1d6fd8
+  --brand-dark: #124a91
+  --surface: #f4f8fb
+  --accent: #f4b740
 }
 
 html {
