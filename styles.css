@@ -1,11 +1,11 @@
 :root {
-  --ink: #17202a
-  --muted: #64748b
-  --line: #d9e2ec
-  --brand: #1d6fd8
-  --brand-dark: #124a91
-  --surface: #f4f8fb
-  --accent: #f4b740
+  --ink: #17202a;
+  --muted: #64748b;
+  --line: #d9e2ec;
+  --brand: #1d6fd8;
+  --brand-dark: #124a91;
+  --surface: #f4f8fb;
+  --accent: #f4b740;
 }
 
 html {
@@ -73,7 +73,7 @@ body {
 
 .page-section {
   padding: 96px 0;
-  scroll-margin-top: 76px;
+  scroll-margin-top: 76px
 }
 
 .section-muted {
@@ -129,26 +129,26 @@ body {
 .skill-card:hover,
 .project-card:hover {
   box-shadow: 0 18px 42px rgba(23, 32, 42, 0.12);
-  transform: translateY(-4px);
+  transform: translateY(-4px)
 }
 
 .skill-card i {
   color: var(--brand);
   display: inline-block;
   font-size: 2.4rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1rem
 }
 
 .skill-card h3,
 .project-body h3 {
   font-size: 1.25rem;
-  font-weight: 800;
+  font-weight: 800
 }
 
 .skill-card p,
 .project-body p {
   color: var(--muted);
-  margin-bottom: 0;
+  margin-bottom: 0
 }
 
 .project-card {
